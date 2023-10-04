@@ -1,0 +1,26 @@
+body {
+    background-color: burlywood;
+}
+
+.row {
+    padding-top: 30px;
+}
+
+.img {
+    height: 550px;
+}
+
+.img1 {
+    height: 550px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+p {
+    font-size: 20px;
+    width: 1300px;
+    padding-left: 250px;
+}
